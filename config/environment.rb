@@ -3,7 +3,7 @@ require 'yaml'
 require 'active_record'
 
 Bundler.require
-
+#require_all '../db'
 
 DBNAME = "tvshows"
 
